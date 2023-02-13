@@ -1,0 +1,103 @@
+{
+  "id": "3e49d621-7eab-4105-99b6-49198a1817d1",
+  "name": "KTECH_REPORTS",
+  "publisher": "Pacific",
+  "version": "1.0.0.48",
+  "brief": "Multiple Email ID Coming in Main ",
+  "description": "Multiple Email ID Coming in Main",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "publisher": "Microsoft",
+      "name": "India GST",
+      "version": "18.3.27240.28751"
+    },
+    {
+      "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "publisher": "Microsoft",
+      "name": "India Tax Base",
+      "version": "18.3.27240.27480"
+    },
+    {
+      "id": "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+      "publisher": "Microsoft",
+      "name": "India TCS",
+      "version": "18.3.27240.27480"
+    },
+    {
+      "id": "eae5779e-7797-4c4c-977e-7516652b7a65",
+      "publisher": "Microsoft",
+      "name": "India TDS",
+      "version": "18.3.27240.27480"
+    },
+    {
+      "id": "2dc39818-e0f0-42b6-99eb-ba29dc5f4102",
+      "publisher": "Microsoft",
+      "name": "India Gate Entry",
+      "version": "18.3.27240.27480"
+    },
+    {
+      "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "publisher": "Microsoft",
+      "name": "Tax Engine",
+      "version": "18.3.27240.27480"
+    },
+    {
+      "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+      "publisher": "Microsoft",
+      "name": "India Reports",
+      "version": "18.3.27240.27480"
+    },
+    {
+      "id": "1150dd8d-51da-485a-bd4a-1ee98d78c21a",
+      "publisher": "Microsoft",
+      "name": "Fixed Asset Depreciation for India",
+      "version": "18.3.27240.27480"
+    },
+    {
+      "id": "ee4aa33f-83d3-49da-81ef-1f1df971d3e7",
+      "name": "KTECH_TABLES_TABLEEXT",
+      "publisher": "Pacific",
+      "version": "1.0.0.11"
+    },
+    {
+      "id": "f1d9b696-156b-4251-b542-34e549fa80e9",
+      "publisher": "Microsoft",
+      "name": "India Voucher Interface",
+      "version": "19.2.32968.34436"
+    },
+    {
+      "id": "db184056-996d-42b8-a561-30a2fa6384fe",
+      "name": "E-Invoice & E-Way Bill Integration",
+      "publisher": "Pacific",
+      "version": "1.0.0.1"
+    }
+    
+   
+
+  ],
+
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50349
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
